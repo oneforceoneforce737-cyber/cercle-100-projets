@@ -17,12 +17,12 @@ Projet volontairement simple, à échelle réduite.
 ## Étapes
 1. Analyse collective initiale
 2. Définition claire de l’objectif ✔ 
-Objectif défini — Lancer un premier acte public et traçable du Cercle 100 (structure + message + point d’entrée)
 3. Validation (principes + gouvernance)
-4. Action opérationnelle concrète
-5. Retour d’expérience documenté
-6. Ajustement ou duplication
-
+✔ Validation effectuée — Projet conforme aux principes, à la gouvernance et à la structure du Cercle 100
+4. Objectif défini — Lancer un premier acte public et traçable du Cercle 100 (structure + message + point d’entrée)
+5. Action opérationnelle concrète
+6. Retour d’expérience documenté
+7. Ajustement ou duplication
 ## Responsables
 - Coordination : Cercle 100
 - Exécution : à définir
